@@ -1,0 +1,108 @@
+PRIMER BRIEFA ZA KLIJENTA – KAKO SE ZAPISUJE PROJEKAT
+
+Ovo je primer kako bi developer ili freelancer zapisao informacije nakon prvog razgovora sa klijentom.
+
+------------------------------
+1. OPŠTI PODACI
+------------------------------
+Naziv projekta: Haarstudio ElbStyle
+Vrsta projekta: Web stranica za frizerski salon
+Lokacija: Hamburg, Njemačka
+Cilj: Povećanje broja kontakata i termina
+Tip stranice: Informativna + prodajna / konverziona
+
+------------------------------
+2. CILJ STRANICE
+------------------------------
+Stranica treba da:
+- predstavi salon kao premium i kvalitetan lokalni brand,
+- pokaže usluge i cene,
+- privuče nove klijente u Hamburgu,
+- omogućava rezervaciju ili kontakt preko forme,
+- pruža profesionalan i moderni utisak.
+
+------------------------------
+3. CILJNA GRUPA
+------------------------------
+- žene i muškarci koji traže kvalitetan frizerski salon u Hamburgu,
+- klijenti koji traže moderno šišanje, bojenje, balayage i styling,
+- ljudi koji vrednuju personalizovan pristup i premium kvalitet.
+
+------------------------------
+4. BRAND I STIL
+------------------------------
+- elegantno,
+- premium,
+- moderno,
+- minimalističko,
+- topao, ali profesionalan,
+- boje: krem, tamno siva / čokoladna, zlatno-bež akcent.
+
+------------------------------
+5. GLAVNE USLUGE
+------------------------------
+- Haarschnitt
+- Coloration
+- Balayage
+- Styling
+- Brautstyling
+- Pflege
+
+------------------------------
+6. KONTROLA SAJTA
+------------------------------
+- navigacija sa sekcijama: Startseite, Leistungen, Über uns, Galerie, Bewertungen, Kontakt,
+- CTA dugme: Termin buchen,
+- kontakt forma,
+- detalji o radnom vremenu,
+- telefon i email,
+- adresa / lokacija.
+
+------------------------------
+7. SEO
+------------------------------
+- fokus na lokalnu pretragu: Friseur Hamburg, Friseursalon Hamburg, Haarschnitt Hamburg, Balayage Hamburg,
+- jasna meta description,
+- struktura H1/H2,
+- semantički HTML,
+- Canonical URL,
+- Open Graph,
+- Schema.org LocalBusiness,
+- sitemap i robots.txt.
+
+------------------------------
+8. TEHNIČKI ZAHTEVI
+------------------------------
+- HTML5,
+- CSS3,
+- Vanilla JavaScript,
+- responsive dizajn,
+- mobilna navigacija,
+- accessible struktura,
+- brzo učitavanje,
+- optimizovane slike,
+- JavaScript za galeriju, slider i validaciju forme.
+
+------------------------------
+9. DOKUMENTI I MATERIJALI
+------------------------------
+- logo (ako postoji),
+- fotografije salona i usluga,
+- tekstovi i slogan,
+- kontakt podaci,
+- radno vreme,
+- reference ili tekstovi sa zadovoljstvom kupaca.
+
+------------------------------
+10. GLAVNI CILJ POSLE DEPLOYA
+------------------------------
+- stranica treba da izgleda profesionalno i da ubedi korisnika da rezerviše termin,
+- stranica treba da se ponaša kao realan lokalni salon u Hamburgu,
+- stranica treba da bude lako ažurirana i održavana.
+
+------------------------------
+11. ZAKLJUČAK
+------------------------------
+Ovaj brief je osnovni dokument koji pomaže da se jasno definiše projekat pre nego što se uopšte počne sa dizajnom i pisanjem koda.
+
+Bez ovog dokumenta, posao može da postane nejasan i raspršen. Sa briefom, sve u projektu ima cilj i logiku.

@@ -1,0 +1,45 @@
+FINALNI KOPIRAJ I POSTAVI TEKST
+
+Naziv projekta:
+Haarstudio ElbStyle – Premium Hair Salon Landing Page
+
+Opis projekta:
+I designed and developed a premium, responsive landing page for a fictional luxury hair salon in Hamburg. The project focuses on elegance, trust, and conversion-driven design, using HTML, CSS, and JavaScript to create a polished online presence for a local business.
+
+What I built:
+- luxury brand-inspired homepage
+- service and pricing sections
+- gallery with interactive filtering
+- client testimonials and social proof
+- contact form and CTA sections
+- mobile-friendly layout and smooth user experience
+- SEO-friendly structure and metadata
+
+Technologies used:
+- HTML5
+- CSS3
+- JavaScript
+
+Why this project matters:
+This project goes beyond basic front-end coding because it shows real business-oriented web design thinking: structure, visual hierarchy, user experience, brand presentation, and deployment readiness.
+
+Portfolio value:
+This project demonstrates my ability to create a polished, modern website for a real-world business scenario and present it as a complete portfolio-ready build.
+
+GitHub repo name:
+Haarstudio-ElbStyle
+
+GitHub repo description:
+Premium responsive landing page for a fictional luxury hair salon in Hamburg, built with HTML, CSS, and JavaScript.
+
+LinkedIn post:
+I just completed a premium landing page project for a fictional luxury hair salon in Hamburg.
+
+This project helped me practice responsive design, front-end development, UX thinking, and business-focused website presentation using HTML, CSS, and JavaScript.
+
+The site includes a premium visual style, service sections, gallery interaction, testimonials, and a conversion-focused contact area.
+
+#WebDevelopment #Frontend #HTML #CSS #JavaScript #ResponsiveDesign #UIUX #Portfolio #SEO
+
+Kratak case study:
+The goal was to design a modern and premium online presence for a salon brand in Hamburg. I built a responsive single-page website with a strong visual identity, clear service presentation, and conversion-focused sections. The final result reflects a realistic client project and demonstrates both design and front-end technical skills.

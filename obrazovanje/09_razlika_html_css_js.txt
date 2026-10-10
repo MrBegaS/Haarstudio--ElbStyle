@@ -1,0 +1,100 @@
+RAZLIKA IZMEĐU HTML, CSS I JAVASCRIPT
+
+Ovo je jedna od najvažnijih stvari koju treba da razumeš.
+
+------------------------------
+1. HTML = struktura
+------------------------------
+HTML opisuje sadržaj.
+
+Na primer:
+- naslov,
+- paragraf,
+- slika,
+- navigacija,
+- forma,
+- sekcije.
+
+HTML je kao "skeleton" zgrade.
+
+------------------------------
+2. CSS = stil
+------------------------------
+CSS opisuje izgled.
+
+Na primer:
+- boje,
+- fontovi,
+- razmaci,
+- veličine,
+- layout,
+- animacije.
+
+CSS je kao "dekoracija i raspored" zgrade.
+
+------------------------------
+3. JavaScript = interakcija
+------------------------------
+JavaScript opisuje ponašanje.
+
+Na primer:
+- klik na meni,
+- skrol do sekcije,
+- filtriranje galerije,
+- validacija forme,
+- slider.
+
+JavaScript je kao "elektrika, klima i pokretni sistemi" zgrade.
+
+------------------------------
+4. JEDNOSTAVAN PRIMER
+------------------------------
+HTML:
+
+<h1>Moja stranica</h1>
+
+CSS:
+
+h1 {
+  color: blue;
+  font-size: 40px;
+}
+
+JavaScript:
+
+button.addEventListener('click', () => {
+  alert('Kliknuto!');
+});
+
+Ovo pokazuje da svaki jezik ima svoju ulogu.
+
+------------------------------
+5. ZAŠTO JE VAŽNO RAZUMETI OVO
+------------------------------
+Ako znaš razliku između ova tri, lakše ćeš:
+- rešavati probleme,
+- pisati bolji kod,
+- razumeš kada treba da menjaš HTML, CSS ili JS,
+- praviš bolje stranice bez konfuzije.
+
+------------------------------
+6. KAKO SE TO PRIMENJUJE NA PROJEKAT
+------------------------------
+Na ovoj stranici:
+- HTML je napravio sekcije i sadržaj,
+- CSS je napravio premium estetiku,
+- JavaScript je dodao funkcionalnost i interaktivnost.
+
+To je potpuno standardni i ispravan način razmišljanja u front-end razvoju.
+
+------------------------------
+7. ZAKLJUČAK
+------------------------------
+Ako naučiš ovu osnovu, već si dobro napredovao.
+
+U web developerstvu je ključno da znaš:
+- šta određuje sadržaj,
+- šta određuje dizajn,
+- šta određuje funkcionalnost.
+
+Bez toga, svaki projekat postaje konfuzan i spor.

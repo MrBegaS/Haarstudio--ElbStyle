@@ -1,0 +1,178 @@
+JAVASCRIPT – KAKO DOĐE DO INTERAKTIVNOSTI
+
+HTML pravi strukturu. CSS pravi stil. JavaScript daje život stranici.
+
+------------------------------
+1. ŠTA je JavaScript ovde radio?
+------------------------------
+U projektu je JavaScript radio nekoliko stvari:
+- mobilni meni,
+- sticky header efekat,
+- smooth scroll,
+- filter galerije,
+- testimonial slider,
+- validacija forme,
+- back-to-top dugme,
+- animacije koje se pokreću kada se element pojavi na ekranu.
+
+To su stvari koje "povećavaju kvalitet" sajta i čine ga realnijim.
+
+------------------------------
+2. MOBILNI MENI
+------------------------------
+Na manjim ekranima meni se mora sakriti i pojaviti kao hamburger icon.
+
+JavaScript je proveravao:
+- da li je kliknut button,
+- da li je meni otvoren ili zatvoren,
+- da li treba da se doda klasa "is-open".
+
+Primer: 
+
+navToggle.addEventListener('click', () => {
+  const isOpen = nav.classList.toggle('is-open');
+  navToggle.setAttribute('aria-expanded', String(isOpen));
+});
+
+Ovo znači da se CSS menja kroz klasu is-open, a JS je odgovoran za promenu stanja.
+
+------------------------------
+3. STICKY HEADER
+------------------------------
+Sticky header znači da se header zakači na vrh i ostane vidljiv tokom skrolovanja.
+
+JavaScript je detektovao trenutnu poziciju skrola i dodavao klasu:
+
+header.classList.toggle('is-scrolled', window.scrollY > 20);
+
+Zatim CSS je reagovao:
+
+.site-header.is-scrolled {
+  border-color: var(--line);
+  box-shadow: ...;
+}
+
+Ovo je vrlo čest obrazac u modernim sajtevima.
+
+------------------------------
+4. SCROLL REVEAL ANIMACIJE
+------------------------------
+Kada korisnik skrola do sekcije, element se pojavljuje postepeno.
+
+U JS je korišćen IntersectionObserver. To je jako moćan alat.
+
+Primer:
+
+const revealObserver = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('is-visible');
+    }
+  });
+}, { threshold: 0.15 });
+
+To znači:
+- observer prati elemente,
+- kada su vidljivi na ekranu,
+- dodaje im klasu is-visible,
+- CSS animira pojavljivanje.
+
+Ovo daje dinamičan, ali ne previše agresivan efekat.
+
+------------------------------
+5. FILTER GALERIJE
+------------------------------
+Galerija ima opcije:
+- Sve
+- Haarschnitte
+- Coloration
+- Styling
+
+JavaScript radi sljedeće:
+- čita klik na filter button,
+- proverava koju kategoriju je korisnik odabrao,
+- sakriva ili prikazuje galerijske elemente.
+
+Primer:
+
+filterButtons.forEach((button) => {
+  button.addEventListener('click', () => {
+    const filter = button.dataset.filter;
+    galleryItems.forEach((item) => {
+      const matches = filter === 'alle' || item.dataset.category === filter;
+      item.classList.toggle('is-hidden', !matches);
+    });
+  });
+});
+
+Ovo je jednostavan, ali veoma koristan pattern.
+
+------------------------------
+6. SLIDER ZA RECENZIJE
+------------------------------
+Recenzije nisu sve prikazane odjednom. Na mobilnom ekranu se menjaju jedna po jedna.
+
+JavaScript pomera track element u levo/desno:
+
+reviewTrack.style.transform = `translateX(-${activeIndex * 100}%)`;
+
+Ovo je princip slidera: jedan element je u fokusu, drugi je trenutno sakriven.
+
+------------------------------
+7. VALIDACIJA FORME
+------------------------------
+Forma kontakt je proveravala da li su polja ispravno popunjena.
+
+JavaScript je radio:
+- proveru imena,
+- proveru e-mail-a,
+- proveru poruke,
+- prikaz poruke o grešci ili uspehu.
+
+Primer:
+
+const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+Ako email ne odgovara šablonu, kreće greška.
+
+Ovo je vrlo bitno za realne sajtove, jer korisnik odmah dobija feedback.
+
+------------------------------
+8. BACK TO TOP DUGME
+------------------------------
+JavaScript prati scroll poziciju i prikazuje dugme kada korisnik skroluje niže.
+
+Primer:
+
+backToTop.classList.toggle('is-visible', window.scrollY > 500);
+
+Na klik se poziva:
+
+window.scrollTo({ top: 0, behavior: 'smooth' });
+
+Ovo je standardna i korisna funkcija.
+
+------------------------------
+9. KAKO POGLEDATI JAVASCRIPT KAO ZASTUPNIK INTERAKTIVNOSTI?
+------------------------------
+JavaScript koristi "event listener" pattern:
+- korisnik nešto radi,
+- program reaguje,
+- DOM se menja.
+
+To je najbitnije za razumevanje JavaScript-a u praktičnom radu.
+
+------------------------------
+10. ZAKLJUČAK
+------------------------------
+JavaScript ovde nije bio “za pokazivanje”. On je bio potreban da stranica deluje kao pravi moderni sajt.
+
+Najvažnije veštine koje si ovde video su:
+- event listeners,
+- class manipulation,
+- DOM selection,
+- conditionals,
+- scrolling logic,
+- form validation.
+
+Ako naučiš ovo, već si u velikom delu na putu da praviš funkcionalne sajteve.

@@ -1,0 +1,86 @@
+KAKO ANALIZIRATI I REPRODUCIRATI STRANICU
+
+Ovo je jedan od najkorisnijih načina da naučiš web development: uzmi neku stranicu i probaj da razumiješ njenu strukturu i efekat.
+
+------------------------------
+1. ŠTA JE CILJ OVOG PROCESA?
+------------------------------
+Kada analiziraš stranicu, ne treba da je samo "pogledaš". Treba da zapitaš:
+- šta je na vrhu,
+- šta je u header-u,
+- šta je u hero sekciji,
+- šta su sekcije po redu,
+- koje boje se koriste,
+- koji fontovi se koriste,
+- da li koristi Grid ili Flexbox,
+- koje su glavne akcije,
+- šta je fokus konverzije.
+
+Ovo razvija tvoje osećanje za web dizajn.
+
+------------------------------
+2. KAKO POČETI ANALIZU
+------------------------------
+Najbolje je da pogledaš jednostavnu, ali kvalitetnu stranicu.
+
+Pitaj se:
+- šta je prvi element koji vidiš?
+- zašto je to prvo?
+- koja boja dominira?
+- da li je logo velik ili diskretan?
+- da li je naslov jasan?
+- da li ima CTA dugme?
+- da li je stranica puna teksta ili razumna?
+
+Ovo ti pomaže da vidiš sve elemente koji sačinjavaju dobar dizajn.
+
+------------------------------
+3. KAKO RAZJASNITI STRUKTURU
+------------------------------
+Analiza stranice se može svesti na:
+- header,
+- hero,
+- intro,
+- usluge,
+- gallery,
+- testimonials,
+- pricing,
+- contact,
+- footer.
+
+Najbolje je da ovo napišeš u notu i da pokušaš da napravite sličnu strukturu u svom projektu.
+
+------------------------------
+4. KAKO ODGOVORITI NA DIZAJN
+------------------------------
+Pitaj se:
+- koje boje se koriste?
+- da li je razmak velik ili mali?
+- da li su buttoni okrugli ili pravougaoni?
+- da li je font čist ili dekorativan?
+- da li se koristi jako mnogo efekata ili je jednostavno?
+
+Ovo je veoma važno za razvoj osećaja za design.
+
+------------------------------
+5. KAKO TO PREVODITI U KOD
+------------------------------
+Kada znaš šta stranica radi, možeš da prevedeš to u kod:
+- header = HTML + CSS flexbox,
+- services = cards + grid,
+- hero = large image + text + buttons,
+- gallery = CSS grid + filter JS,
+- form = HTML form + JS validation.
+
+Tako učiš da ne kopiraš kod, nego razumeš logiku dizajna i strukture.
+
+------------------------------
+6. ZAKLJUČAK
+------------------------------
+Najbolji način da naučiš web razvoj je da analiziraš stranice koje ti se sviđaju i da pokušaš da reprodukuješ njihovu logiku.
+
+To razvija:
+- osećaj za dizajn,
+- razumevanje strukture,
+- sposobnost da samostalno praviš strane,
+- vrlo važnu praksu koja postaje veština.

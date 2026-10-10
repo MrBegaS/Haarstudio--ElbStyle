@@ -1,0 +1,13 @@
+FINALNI MASTER TEKST
+
+Project: Haarstudio ElbStyle
+
+I designed and developed a premium, responsive landing page for a fictional luxury hair salon in Hamburg. The project was created to reflect a modern high-end salon brand and to demonstrate how a business can present its services clearly, confidently, and professionally online.
+
+The website includes a strong visual identity, premium typography, clear content hierarchy, service sections, client testimonials, gallery interaction, and a contact-focused layout. It was built with HTML, CSS, and JavaScript and was structured to be fully responsive across desktop, tablet, and mobile devices.
+
+This project allowed me to apply front-end development skills in real-world conditions: planning, content structure, responsive design, user experience thinking, and deployment-ready presentation. I also focused on SEO basics and practical business logic, which are important for creating websites that are not only visually appealing but also functional and useful for clients.
+
+The result is a realistic portfolio project that shows my ability to create a polished, modern website for a local business with a clear brand identity and a strong conversion flow.
+
+This project is a strong example of how web development is more than writing code — it includes strategy, design decisions, communication, usability, and final presentation.

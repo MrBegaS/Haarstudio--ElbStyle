@@ -1,0 +1,47 @@
+FINALNI PROFESIONALNI PORTFOLIO SUMMARY
+
+Project Name:
+Haarstudio ElbStyle – Premium Hair Salon Landing Page
+
+Project Type:
+Responsive marketing website / landing page for a fictional luxury hair salon in Hamburg
+
+Overview:
+I designed and developed a premium one-page website for a fictional salon brand, with a strong emphasis on elegance, trust, local business appeal, and conversion-focused design. The project was built using HTML, CSS, and JavaScript and was structured to reflect a realistic client workflow from planning to launch.
+
+Key Responsibilities:
+- analyzed the business goal and audience
+- planned the structure and content hierarchy
+- created the page layout with semantic HTML
+- designed a luxury visual identity with premium typography, spacing, and color palette
+- implemented responsive behavior for mobile and desktop screens
+- added interactive elements such as a mobile menu, gallery filtering, scroll effects, and form interactions
+- improved SEO structure with metadata and sitemap configuration
+- prepared the project for deployment and portfolio presentation
+
+Skills Demonstrated:
+- Front-end web development
+- Responsive design
+- UX/UI thinking
+- HTML semantic structure
+- CSS styling and layout design
+- JavaScript interactivity
+- SEO basics
+- Portfolio-ready project presentation
+
+Project Highlights:
+- premium salon visual branding
+- strong conversion-focused layout
+- clean and readable content structure
+- mobile-friendly experience
+- realistic business-oriented design decisions
+- deployment-ready static website
+
+Why This Project Is Valuable:
+This project goes beyond basic coding because it shows the full process of building a website for a real business need. It demonstrates planning, visual design, usability, technical implementation, and a professional final presentation that is suitable for a portfolio or client proposal.
+
+Portfolio Statement:
+A premium landing page for a fictional salon brand, created to showcase modern front-end design, responsive layout implementation, and conversion-focused UX in a realistic business context.
+
+Keywords:
+HTML, CSS, JavaScript, Responsive Design, UX/UI, Frontend Development, Landing Page, Portfolio Project, SEO, Web Design

@@ -1,0 +1,16 @@
+Premium Hair Salon Landing Page – Haarstudio ElbStyle
+
+I designed and built a modern, responsive landing page for a fictional premium hair salon in Hamburg. The project focused on luxury brand presentation, mobile-first layout, clear service communication, and conversion-oriented design.
+
+Built with HTML, CSS, and JavaScript, the site includes:
+- premium aesthetic and typography
+- responsive layout for mobile and desktop
+- service and pricing sections
+- gallery interaction
+- testimonials and social proof
+- contact form and CTA areas
+- SEO-friendly structure and metadata
+
+This project helped me practice real front-end work beyond basic coding: planning, layout decisions, UX flow, client-focused content, and deployment-ready presentation.
+
+#WebDevelopment #Frontend #HTML #CSS #JavaScript #Portfolio #UIUX #ResponsiveDesign #SEO

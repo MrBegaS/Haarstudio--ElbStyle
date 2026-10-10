@@ -1,0 +1,180 @@
+HTML – OSNOVNA STRUKTURA STRANICE
+
+U ovom fajlu objasniću šta je radio HTML u projektu i zašto je to važno.
+
+------------------------------
+1. HTML je kostur stranice
+------------------------------
+HTML (HyperText Markup Language) je jezik koji definiše strukturu web stranice.
+
+On određuje:
+- gde je navigacija,
+- gde je naslov,
+- koje sekcije postoje,
+- koje slike i tekstovi idu gde,
+- koje forme i linkovi postoje.
+
+U našem projektu, HTML je napisao sledeće:
+- header sa logom i navigacijom,
+- hero sekciju sa tekstom i CTA dugmadima,
+- sekcije za usluge, galeriju, recenzije, cene, kontakt,
+- footer.
+
+HTML ne "dizajnira" stranicu. HTML je odgovoran za sadržaj i semantiku.
+
+------------------------------
+2. SEMANTIKA JE VAŽNA
+------------------------------
+U projekat je korišćeno:
+- header
+- nav
+- main
+- section
+- article
+- footer
+- form
+- button
+- img
+- h1, h2, h3
+
+To je važno jer:
+- browser bolje razume sadržaj,
+- pretraživači bolje indeksiraju stranicu,
+- screen readeri bolje čitaju sadržaj,
+- kod je čitljiviji za tebe i drugima.
+
+Primer:
+
+<header>
+  <nav>...</nav>
+</header>
+
+<main>
+  <section>...</section>
+</main>
+
+<footer>...</footer>
+
+To je mnogo bolji pristup od nasumičnog pisanog divova bez smisla.
+
+------------------------------
+3. GLAVNI HEADER
+------------------------------
+Header je bio zasnovan na:
+- logu sa krugom i nazivom salona,
+- navigacionoj listi sa linkovima,
+- dugmetu "Termin buchen".
+
+Primer logike:
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="#top" class="brand">...</a>
+    <nav class="site-nav">...</nav>
+    <a class="button button-primary" href="#kontakt">Termin buchen</a>
+  </div>
+</header>
+
+Ovo je dobro jer ima jasnu hijerarhiju:
+- brand (logo)
+- nav (navigacija)
+- CTA (poziv na akciju)
+
+------------------------------
+4. HERO SEKCIJA
+------------------------------
+Hero deo je najvažniji deo sajta. Tu korisnik najpre vidi:
+- naslov,
+- kratak opis,
+- dugmad,
+- osećaj brand-a.
+
+U HTML-u to izgleda na primer:
+
+<section class="hero" aria-labelledby="hero-heading">
+  <div class="hero-image">
+    <img src="..." alt="..." />
+  </div>
+
+  <div class="container hero-inner">
+    <div class="hero-content">
+      <p class="eyebrow">Hamburg • Premium Beauty</p>
+      <h1 id="hero-heading">Dein Stil. Dein Moment.</h1>
+      <p class="hero-text">Modernes Hairstyling ...</p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="#kontakt">Termin buchen</a>
+        <a class="button button-secondary" href="#leistungen">Leistungen entdecken</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+Znači, HTML je definisao "sadržaj" hero sekcije, dok je CSS radio "pejzaž i stil".
+
+------------------------------
+5. SEKCIJA USLUGA
+------------------------------
+Svaka usluga je bila predstavljena kao article kartica.
+Primer:
+
+<article class="service-card">
+  <div class="icon-wrap" aria-hidden="true">✂</div>
+  <h3>Haarschnitt</h3>
+  <p>Individuelle Schnitte und professionelle Beratung.</p>
+  <span class="price-tag">ab 45 €</span>
+</article>
+
+Zašto je ovo dobro?
+- svaka kartica je nezavisna,
+- lakše se stilizuje,
+- dobra je za SEO,
+- sadržaj je pregledno organizovan.
+
+------------------------------
+6. GALERIJA
+------------------------------
+Galerija je napravljena sa figure i img tagovima.
+Svaka slika ima alt opis i kategoriju:
+
+<figure class="gallery-item" data-category="Haarschnitte">
+  <img src="..." alt="Modischer Damenhaarschnitt ..." />
+  <figcaption>Haarschnitt</figcaption>
+</figure>
+
+Alt atribut je važan zato što:
+- pomaže pri pristupačnosti,
+- pomaže SEO-u,
+- ako slika ne učita, korisnik zna šta je tamo.
+
+------------------------------
+7. KONTAKT FORMA
+------------------------------
+Forma je građena kao <form> sa input poljima.
+Primer:
+
+<form class="contact-form" novalidate>
+  <label for="name">Name</label>
+  <input id="name" name="name" type="text" required>
+</form>
+
+Ovo je ključno za validaciju. Bez HTML labelova, forma bi bila loša i manje dostupna.
+
+------------------------------
+8. ŠTA JE NAJVAŽNIJE U HTML-u?
+------------------------------
+Najvažnije je da HTML struktura bude:
+- logična,
+- semantička,
+- čitljiva,
+- dobra za SEO,
+- dobra za pristupačnost.
+
+CSS i JS dolaze kasnije, ali HTML je prvi i najvažniji deo.
+
+------------------------------
+9. ZAKLJUČAK
+------------------------------
+U HTML-u se pravi sadržaj i logika stranice. To je nosilac čitave strukture.
+Ako je HTML dobar, onda CSS i JavaScript imaju veću vrednost i lakše se menjaju.
+
+Ako želiš da naučiš dobro web development, prvo treba da razumeš HTML kao "sadržaj i šemu stranice".

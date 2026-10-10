@@ -1,0 +1,48 @@
+TEKST ZA KLIJENTA O DOMENI I HOSTINGU
+
+Poštovani,
+
+Nakon završene izrade web stranice, potrebno je da se stranica objavi na internetu kako bi bila dostupna javnosti i klijentima.
+
+U tom procesu postoje dva važna elementa:
+- domena – adresa sajta, npr. elbstyle-hamburg.de,
+- hosting – prostor na internetu gde sajt živi.
+
+Za ovaj projekat, preporučujem jednostavan i profesionalan model:
+
+1. Domenu kupuje klijent
+- domena je vlasništvo klijenta,
+- klijent može da je zadržava i u budućim projektima,
+- to je važan poslovni resurs.
+
+2. Hosting za statički sajt koristi se preko Netlify ili Cloudflare Pages
+- ova platforma je odlična za landing page i poslovne stranice bez kompleksnog backend sistema,
+- stranica se brzo objavljuje,
+- automatski se postavlja SSL certifikat,
+- domena se lako povezuje sa projektom.
+
+3. Email sa domenom
+- preporučujem poslovni email sa domenom,
+- npr. info@elbstyle-hamburg.de,
+- to daje ozbiljniji utisak biznisa.
+
+4. Ako klijent želi dodatne funkcije
+- rezervacije,
+- admin panel,
+- CMS,
+- newsletter,
+- više stranica sa backend logikom,
+
+tada je bolje koristiti hosting paket kao što su Hostinger, SiteGround ili IONOS.
+
+Za ovaj konkretan projekt, međutim, nije potreban komplikovan server, jer je stranica landing page i ne zahteva bazu podataka ni složenu backend administraciju.
+
+Zato je najpametnije rešenje:
+- domena = klijent,
+- hosting = Netlify ili Cloudflare Pages,
+- deploy i konfiguracija = developer,
+- email = dodatno po želji klijenta.
+
+Na taj način stranica je profesionalno objavljena, bez nepotrebnih troškova, a klijent zadržava potpuni nadzor nad domenom i hostinzom.
+
+Ako želite, mogu odmah da organizujem i finalnu verziju ovog teksta u kraćem, poslovnijem formatu za direktnu poruku klijentu.

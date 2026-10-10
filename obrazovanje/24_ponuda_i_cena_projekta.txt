@@ -1,0 +1,57 @@
+PONUDA ZA IZRADU WEB STRANICE
+
+1. Paket: Mini poslovni sajt
+Opis:
+- jedinstvena landing stranica,
+- modern dizajn,
+- sekcije: uvod, usluge, galerija, recenzije, kontakt,
+- responzivnost za desktop, tablet i telefon,
+- SEO osnovne postavke,
+- kontakt forma,
+- priprema za objavljivanje.
+
+Cijena:
+- 250–450 EUR
+
+2. Paket: Premium poslovni sajt
+Opis:
+- sve iz Mini paketa,
+- dodatno poboljšan brand stil,
+- sofisticiraniji dizajn i dodatni detalji,
+- bolja struktura konverzije i CTA dugmadi,
+- dodatna optimizacija za efikasniji marketing,
+- konsultacije i finalna optimizacija.
+
+Cijena:
+- 500–900 EUR
+
+3. Paket: Business + podrška za objavljivanje
+Opis:
+- sve iz Premium paketa,
+- povezivanje sa domenom,
+- konfiguracija hostinga,
+- deploy na Netlify, Cloudflare ili sličnu platformu,
+- finalni pregled i podrška nakon objavljivanja,
+- preporuka za dalji razvoj sajta.
+
+Cijena:
+- 700–1.200 EUR
+
+NAPOMENA:
+Cena zavisi od složenosti dizajna, broja sekcija, dodatnih funkcionalnosti i potreba za kasnijim proširenjem stranice.
+
+Za ovu vrstu poslovne stranice, najčešće je dovoljno koristiti:
+- jedan kvalitetan landing page,
+- jasno strukturirane informacije,
+- premium vizuelni stil,
+- jednostavnu kontakt formu,
+- i profesionalno objavljivanje.
+
+U praksi, takav sajt često daje odličan rezultat i brzo se vraća kroz novi poslovni rast i veći broj klijenata.
+
+---
+
+PRIMER KRAĆE PONUDE ZA KLIJENTA
+
+"Izradili bismo modernu poslovnu web stranicu za Vaš salon, sa premium dizajnom, responzivnim prikazom i sekcijama za usluge, galeriju, recenzije i kontakt. Cena zavisi od željenog nivoa detalja i dodatnih funkcionalnosti, a finalni deploy i publikaija na internetu mogu da se urade nakon završetka projekta."
+

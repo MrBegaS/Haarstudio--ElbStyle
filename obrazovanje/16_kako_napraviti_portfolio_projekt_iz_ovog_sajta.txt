@@ -1,0 +1,99 @@
+KAKO NAPRAVITI PORTFOLIO PROJEKAT IZ OVOG SAJTA
+
+Ovo je vrlo važan korak: sajt koji si napravio ne treba da ostane samo "jedan projekat". Treba da postane deo tvog portfolija.
+
+------------------------------
+1. ZAŠTO JE OVO VAŽNO
+------------------------------
+Ako želiš da pokažeš drugima da znaš da radiš web stranice, moraš da imaš projekte koji pokazuju:
+- dizajn osećaj,
+- strukturno razmišljanje,
+- razumijevanje UX-a,
+- kvalitet kodiranja,
+- responsive behavior,
+- prezentabilan portfolio kvalitet.
+
+Ovaj salon sajt je odličan primer tog tipa projekta.
+
+------------------------------
+2. ŠTA DA NAPIŠEŠ U PORTFOLIO OPISU
+------------------------------
+Primer:
+
+Projekt: Haarstudio ElbStyle – premium salon landing page
+Opis:
+- izrada responsive landing page za premium frizerski salon u Hamburgu,
+- fokus na premium brand, kvalitetan dizajn i konverziju,
+- implementiran SEO, accesibility i responsivity,
+- korišćeni HTML, CSS i vanilla JavaScript,
+- dizajn usmeren ka lokalnoj poslovnoj prezentaciji.
+
+Ovo pokazuje da znaš ne samo da praviš izgled, nego i da razmišljaš kao developer.
+
+------------------------------
+3. ŠTA JE VAŽNO DA POKAŽEŠ U PORTFOLIU
+------------------------------
+Tvoj portfolio ne treba da sadrži samo slike projekata. Treba da pokažeš:
+- problem,
+- cilj,
+- postupak,
+- tehnologije,
+- rezultat.
+
+Primer strukture:
+- naslov projekta,
+- kratki opis,
+- tehnologije koje su korišćene,
+- link na preview,
+- lista delova koje si radio,
+- kratak komentar o dizajnu i funkcionalnostima.
+
+------------------------------
+4. KAKO PREDSTAVITI OVAJ PROJEKAT
+------------------------------
+Možeš da ga predstaviš kao:
+- static business website,
+- premium salon landing page,
+- local business website optimized for SEO,
+- frontend project made with semantic HTML and CSS Grid,
+- practical demo of UX, conversion, and accessibility.
+
+To zvuči mnogo profesionalnije od "napravio sam jedan sajt".
+
+------------------------------
+5. KAKO ODRŽAVATI KRAJNJI UTISAK
+------------------------------
+Portfolio projekat treba da bude:
+- čist,
+- organizovan,
+- brz,
+- profesionalno objašnjen,
+- bez velike količine teksta,
+- fokusiran na rezultat.
+
+Ne treba da se pretvori u gomilu reklama. Treba da deluje kao ozbiljan dokaz tvog rada.
+
+------------------------------
+6. ŠTA DA DODAŠ KAO DODATNE STRANICE
+------------------------------
+Možeš kasnije dodati:
+- druga varianta dizajna istog projekta,
+- druga kategorija projekata,
+- više poslovnih landing page-a,
+- personal portfolio homepage,
+- blog ili case study stranice.
+
+To pokazuje da znaš da razmišljaš u nizovima projekata.
+
+------------------------------
+7. ZAKLJUČAK
+------------------------------
+Ovaj salon sajt je odlična osnova za portfolio. On pokazuje da znaš:
+- dizajn,
+- HTML/CSS/JS,
+- responsive behavior,
+- UX,
+- SEO,
+- profesionalnu prezentaciju.
+
+Ako to lepo formulišeš, to može da postane jako dobar projekat u tvom portfolio-u.

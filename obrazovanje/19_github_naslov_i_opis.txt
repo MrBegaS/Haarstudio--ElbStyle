@@ -1,0 +1,19 @@
+GITHUB NASLOV I OPIS ZA OVAJ PROJEKAT
+
+NASLOV:
+Haarstudio ElbStyle – Premium Hair Salon Landing Page
+
+KRATAK OPIS:
+Responsive landing page for a fictional premium hair salon in Hamburg, created with HTML, CSS, and JavaScript. The project focuses on modern branding, local SEO, user experience, and conversion-oriented design.
+
+PORTFOLIO OPIS:
+A premium salon landing page designed to showcase a high-end local business in a modern and polished way. The project was built with semantic HTML, responsive CSS styling, and lightweight JavaScript to deliver an elegant user experience, clear service presentation, and a strong conversion-focused layout.
+
+GITHUB DESCRIPTION:
+Premium hair salon landing page built with HTML, CSS, and JavaScript. Includes responsive layout, branding-focused design, local SEO setup, and interactive frontend elements.
+
+KRAĆI SRPSKI OPIS:
+Premium landing page za frizerski salon u Hamburgu, napravljen u HTML-u, CSS-u i JavaScript-u. Stranica ima moderni dizajn, responzivnost, SEO elemente i fokus na promociju usluga i kontakt.
+
+PRIMER ZA CV / PORTFOLIO:
+Frontend project for a premium beauty business landing page. Built a polished, responsive website using HTML, CSS, and JavaScript with an emphasis on brand identity, UX, local SEO, and clear customer conversion.

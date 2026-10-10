@@ -1,0 +1,159 @@
+PUBLISH, HOSTING I DOMENA – KADA ŠTA KUPUJE KLIJENT, A KADA TI
+
+Ovo je važan deo poslovnog razumevanja. Stranica nije gotova samo kad se "otvori u browseru". Ona se smatra gotovom kada je pravilno objavljena i dostupna javnosti.
+
+-------------------------------------
+1. KOJA JE RAZLIKA IZMEĐU DEPLOY-A I HOSTING-A
+-------------------------------------
+Deploy = objavljivanje sajta na internetu.
+Hosting = prostor na serveru gde sajt živi.
+Domena = adresa sajta, npr. hairstudio-hamburg.de
+
+Za static site, kao što je ovaj, često nije potreban pravi server sa bazom podataka. Potreban je samo hosting za statičke fajlove ili platforma koja to radi automatski.
+
+-------------------------------------
+2. KOJE PLATFORME PREPORUČUJEŠ ZA OVAJ PROJEKAT
+-------------------------------------
+ZA JEDNOSTAVNU STATIC STRANICU:
+- Netlify – vrlo jednostavan, odličan za landing page,
+- GitHub Pages – besplatan i dobar za portfolije i jednostavne projekte,
+- Cloudflare Pages – vrlo brzo i profesionalno,
+- Vercel – odličan za moderne frontend projekte, ali za ovaj tip sajta Netlify je najpraktičniji.
+
+ZA LOKALNI BIZNIS KOJI ŽELI BESPLATNO + PROFESIONALNO:
+- Netlify + custom domain
+- Cloudflare Pages + domain na Cloudflare-u
+
+AKO KLIJENT ŽELI "SVE U JEDNOM" (domenu + hosting + email):
+- Hostinger
+- SiteGround
+- IONOS
+- Namecheap hosting
+
+Ove kuće su dobre ako klijent želi da ima stabilan hosting, email, CMS i lakšu administraciju.
+
+-------------------------------------
+3. KADA KLIJENT TREBA DA KUPI DOMENU I HOSTING
+-------------------------------------
+Najčešće se događa ovako:
+- ti radiš dizajn i kod,
+- klijent plaća domenu i hosting,
+- ti i dalje ostaješ odgovoran za završni deploy i eventualno održavanje.
+
+To je profesionalno jer:
+- klijent ima sopstveni vlasnički nalog,
+- domen je njegov, a ne tvoj,
+- hosting ostaje u njegovom vlasništvu,
+- lako se menja i prenosi ako kasnije želiš da radiš novi projekat.
+
+-------------------------------------
+4. ŠTA PREPORUČUJEŠ ZA MALI LOKALNI FRIZERSKI SALON
+-------------------------------------
+Za salon tipa Haarstudio ElbStyle, preporuka je:
+- domena: .de ili .com (na primer: elbstyle-hamburg.de ili hairstudio-elbstyle.de)
+- hosting: Netlify ili Cloudflare Pages ako je stranica statička
+- email: Gmail Workspace ili poslovni email sa domenom
+- ako klijent želi više funkcionalnosti: Hostinger ili SiteGround
+
+Ako je projekat samo landing page i kontakt forma, nema potrebe za skupim serverom.
+
+-------------------------------------
+5. KAKO SE RADI DEPLOY KROZ DOMENU
+-------------------------------------
+Pravilan proces:
+1. Klijent kupi domenu preko Namecheap, Porkbun, GoDaddy ili Cloudflare.
+2. U platformi za hosting (Netlify/Cloudflare Pages) dodaš domenu.
+3. U DNS podešavanjima postaviš CNAME ili A zapis.
+4. Aktiviraš SSL certifikat.
+5. Povežeš email ako je potreban.
+6. Testiraš: homepage, kontakt, mobile, all pages.
+
+Primer:
+- domena: elbstyle-hamburg.de
+- hosting: Netlify
+- DNS: CNAME -> custom domain
+- SSL: automatski od Netlify/Cloudflare
+
+-------------------------------------
+6. KADA JE BOLJE KORISTITI NETLIFY ILI GITHUB PAGES
+-------------------------------------
+Netlify je najbolje za:
+- landing page,
+- brzu publikaciju,
+- professional preview,
+- custom domain,
+- no-code deploy.
+
+GitHub Pages je dobro za:
+- portfolio,
+- demo projekat,
+- simple static page,
+- kada ne treba osobito napredna administracija.
+
+Cloudflare Pages je sjajno ako želiš:
+- brzinu,
+- modernu infrastrukturu,
+- domain + security + CDN.
+
+-------------------------------------
+7. KADA JE BOLJE KUPITI PRAVI SERVER
+-------------------------------------
+Ako klijent želi:
+- booking sistem,
+- admin panel,
+- CMS,
+- bazu podataka,
+- više stranica sa backend logikom,
+- rezervacije preko admina,
+- automatsko slanje poruka putem server-side aplikacije,
+
+onda je bolje koristiti:
+- Hostinger VPS / managed hosting,
+- DigitalOcean,
+- Render,
+- Railway,
+- SiteGround ako treba jednostavno upravljanje.
+
+Ali za ovaj salon landing page, ne treba ništa komplikovano.
+
+-------------------------------------
+8. ŠTA BI JA PREPORUČIO KAO PROFESIONALNO REŠENJE
+-------------------------------------
+Za ovaj konkretan projekat:
+- ako je to portfolio/demo: Netlify ili GitHub Pages
+- ako je to klijent koji želi da radi sa svojom stranicom: Netlify + domain + email
+- ako klijent želi da ima kompletan hosting package: Hostinger ili SiteGround + Namecheap domen
+
+Moje profesionalno pravilo:
+- landing page: Netlify / Cloudflare Pages
+- ozbiljan lokalni biznis: hosting + domen + email + eventualno CMS
+- kompleksniji projekat: server + admin + baza
+
+-------------------------------------
+9. ŠTA BI KLIJENT TREBAO DA PLAĆA
+-------------------------------------
+Najčešći model:
+- domena: godišnje
+- hosting: mjesečno ili godišnje
+- email: mjesečno
+- održavanje: dodatno, ako ti radiš update-e
+
+Primer:
+- domena: 10–25 EUR godišnje
+- hosting: 3–15 EUR mjesečno za jednostavan site
+- email: 5–15 EUR mjesečno
+
+Bez obzira na cenu, važno je da klijent zna da je domen i hosting njegovo poslovno vlasništvo.
+
+-------------------------------------
+10. ZAKLJUČAK
+-------------------------------------
+Najbolji pristup za ovaj projekat je da se koristi jednostavan, profesionalan publish flow:
+- static frontend,
+- Netlify ili Cloudflare Pages,
+- domena preko Namecheap / Cloudflare / Porkbun,
+- hosting i email paket ako klijent želi više poslovne stabilnosti.
+
+Ako klijent želi samo delotvoran i elegantan web presence, nema potrebe za komplikovanim serverom.
+
+Najvažnije je da web stranica bude objavljena, sigurna, dostupna i lako održavana.

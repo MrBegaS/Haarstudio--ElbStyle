@@ -1,0 +1,89 @@
+GITHUB I PORTFOLIO PRIPREMA ZA OVAJ PROJEKAT
+
+Ovo je važna završna faza. Projekat ne treba da ostane samo u folderu na računaru. Treba da bude spreman za prezentaciju i za pokazivanje drugim ljudima.
+
+-------------------------------------
+1. ŠTA DA STAVIŠ NA GITHUB
+-------------------------------------
+U GitHub repozitorijumu treba da imaš:
+- dobar naziv projekta,
+- kratak opis,
+- README fajl,
+- slike ili preview,
+- link za demo,
+- javno dostupnu strukturu koja pokazuje da je projekat ozbiljan.
+
+Primer opisa:
+
+"Premium salon landing page made with HTML, CSS and JavaScript. Responsive website for a fictional hair salon in Hamburg, focused on local business branding, UX and SEO."
+
+-------------------------------------
+2. KAKO NAPRAVITI DOBAR README
+-------------------------------------
+README treba da sadrži:
+- naziv projekta,
+- kratki opis,
+- tehnologije,
+- kako pokrenuti lokalno,
+- kako deploy-ovati na GitHub Pages ili Netlify,
+- šta je projekt pokazao u pogledu dizajna i funkcionalnosti.
+
+To je ono što poslodavci i klijenti najviše čitaju kad pregledaju projekat.
+
+-------------------------------------
+3. KAKO PISATI PORUKU ZA PORTFOLIO
+-------------------------------------
+Portfolio opis treba da deluje profesionalno i konkretno.
+
+Primer:
+
+"Napravil sam responsivni landing page za premium frizerski salon. Fokus projekta bio je na brand identitetu, modernom dizajnu, korisničkom iskustvu i lokalnom SEO. Korišćeni su HTML, CSS i vanilla JavaScript za dinamičke interakcije i optimizaciju korisničkog puta."
+
+Ovo zvuči mnogo bolje od jednostavnog "napravio sam sajt".
+
+-------------------------------------
+4. KAKO PREDSTAVITI OVAJ PROJEKAT KAO PORTFOLIO RAD
+-------------------------------------
+Najbolje ga predstaviš kao:
+- frontend project,
+- static business website,
+- local brand landing page,
+- UX and conversion-oriented marketing page,
+- demo of premium salon website design.
+
+To pokazuje da razumeš kako se pravi legitiman web projekat, a ne samo da znaš sintaksu.
+
+-------------------------------------
+5. ŠTA ZNAČI DOBAR DEPLOY
+-------------------------------------
+Deploy je važan jer pokazuje da projekat može da postoji u realnom svetu.
+
+GitHub Pages:
+- jednostavno,
+- dobar za portfolio,
+- idealan za static site.
+
+Netlify:
+- još profesionalniji flow,
+- koristi se za preview i produkciju,
+- dobar za brže testiranje i verifikaciju.
+
+-------------------------------------
+6. ŠTA JE VAŽNO DA ZAPAMTIŠ
+-------------------------------------
+Uvek treba da znaš:
+- šta je cilj projekta,
+- ko je ciljna grupa,
+- šta web stranica treba da postigne,
+- kako se stranica ponaša na mobilnom i desktop uređaju,
+- zašto je dizajn napravljen tako,
+- kako projekat komunicira brand.
+
+To je ono što pravi web developer razlikuje od običnog korisnika koji zna da skupi HTML i CSS.
+
+-------------------------------------
+7. FINALNA PORUKA
+-------------------------------------
+Ovaj projekat je odličan za portfolio zato što pokazuje da znaš da radiš sa: struktura, dizajn, interaktivnost, SEO i poslovni cilj.
+
+Ako ga lepo dokumentuješ, on može da bude jedan od najboljih primera tvog rada.

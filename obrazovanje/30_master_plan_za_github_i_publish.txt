@@ -1,0 +1,98 @@
+MASTER PLAN ZA GITHUB I PUBLISH
+
+1. Sta treba da uradis da uploadujes projekat
+- napraviti GitHub nalog
+- napraviti novi repo
+- uploadovati folder projekta
+- dodati README.md
+- ako zelis dodati live site, povezati sa Netlify ili Cloudflare Pages
+
+2. Kako napraviti GitHub repo
+Koraci:
+1. Otvori GitHub.
+2. Klikni na New repository.
+3. Unesi naziv: Haarstudio-ElbStyle
+4. Izaberi Public ili Private.
+5. Klikni Create repository.
+6. Otvori lokalni projekat u VS Code.
+7. U terminalu unesite:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/TVOJ_USERNAME/HAARSTUDIO-ELBSTYLE.git
+git push -u origin main
+```
+
+3. Kako da projekat izgleda na GitHub-u
+- na vrhu treba biti nice naziv
+- opis treba da bude kratko i profesionalno
+- dodaj README
+- dodaj slike ili preview screenshot ako zelis
+- dodaj tagove kao: html, css, javascript, landing-page, portfolio
+
+4. Kako publishovati na Netlify
+1. Otvori netlify.com
+2. Klikni Add new site
+3. Import from Git
+4. Povezi GitHub nalog
+5. Izaberi projekat
+6. Nema build command za ovaj projekat
+7. Publish directory treba da bude root folder
+8. Klikni Deploy site
+9. Dobijes live link
+
+5. Kako publishovati na Cloudflare Pages
+1. Idi na Cloudflare dashboard
+2. Pages -> Create a project
+3. Connect to Git
+4. Izaberi repo
+5. Build settings ostavi default
+6. Publish
+
+6. Kako publishovati na GitHub Pages
+1. U repo Settings
+2. Pages
+3. Source: Deploy from branch
+4. Branch: main
+5. Folder: /root
+6. Save
+7. GitHub ce kreirati live link
+
+7. Recommended for this project
+- GitHub Pages: najbolji za demo i portfolio
+- Netlify: najbolji za profesionalan publish
+- Cloudflare Pages: vrlo dobro i brzo
+
+8. Ako je klijent i pravni deo
+- domena ide kod klijenta
+- hosting platforma moze biti kod klijenta ili developer-a
+- ako je developer pravi deploy, mora da se jasno pise ko ima pristup i vlasnistvo
+- preporuka: klijent ima domenu, developer radi setup i deploy
+
+9. Final checklist
+- GitHub repo napravljen
+- README dodat
+- projekat pushovan
+- live link aktiviran
+- domena proverena ako postoji
+- ssl aktiviran
+- kontakt forma testirana
+- stranica pregledana na mobitelu i desktopu
+- screenshot ili preview dodan
+
+10. Kratka poslovna preporuka
+Ako je ovo portfolio projekat: GitHub Pages ili Netlify je dovoljno.
+Ako je ovo stvaran salon i klijent: Netlify ili Cloudflare Pages + domena kod klijenta.
+
+11. Profesionalni savet
+Najvažnije nije samo da sajt radi. Najvažnije je da znaš:
+- ko je ciljana public,
+- zašto stranica treba da izgleda tako,
+- kako klijent treba da kontaktira,
+- i kako se projekat vodi do live verzije.
+
+12. Zavrsetak
+Ovo je savrsen primer kako se pravi portfolio projekt: od ideje do sajta, do GitHub-a, do publike i finalnog prezentovanja.
