@@ -1,8 +1,8 @@
 # Haarstudio ElbStyle
 
-A premium salon landing page for a fictional luxury hair studio in Hamburg, Germany.
+A premium salon landing page for a luxury hair studio in Hamburg, Germany.
 
-Built as a portfolio project to demonstrate frontend design, user experience, responsive layout, and conversion-focused marketing design.
+Designed and developed to demonstrate frontend skills: visual design, user experience, responsive layout, and conversion-focused marketing structure.
 
 ## Screenshot
 
@@ -10,12 +10,11 @@ Built as a portfolio project to demonstrate frontend design, user experience, re
 
 ## Live Demo
 
-- GitHub Pages: https://mrbegas.github.io/Haarstudio-ElbStyle/
-- Local preview: http://localhost:8002/
+https://mrbegas.github.io/Haarstudio-ElbStyle/
 
 ## Project Overview
 
-This project focuses on creating a polished, upscale presentation for a premium hair salon. The website is designed to feel elegant, modern, and trustworthy while clearly communicating services, contact information, and booking intent.
+A polished, upscale presentation for a premium hair salon. Designed to feel elegant, modern, and trustworthy while clearly communicating services, contact information, and booking intent.
 
 ## Features
 
@@ -41,22 +40,16 @@ This project focuses on creating a polished, upscale presentation for a premium 
 - `index.html` — main page structure and content
 - `styles.css` — layout, styling, typography, colors and responsiveness
 - `script.js` — interactions and small UI behaviors
-- `robots.txt` — crawler guidance
 - `sitemap.xml` — search engine sitemap
 - `screenshot.png` — project preview image used in the README
 
 ## Run Locally
 
 ```bash
-cd "C:\Users\sembe\Desktop\Moji Svi Projekti\Firzerski salon stranica"
-python -m http.server 8002
+python -m http.server 8000
 ```
 
-Open in the browser:
-
-```text
-http://localhost:8002/
-```
+Open `http://localhost:8000/` in the browser.
 
 ## Deployment
 

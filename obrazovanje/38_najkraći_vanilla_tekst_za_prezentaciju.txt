@@ -1,5 +1,0 @@
-NAJKRAĆI VANILLA TEKST ZA PREZENTACIJU
-
-I created a premium salon landing page using HTML, CSS, and JavaScript. The project focuses on a luxury brand identity, responsive design, clear service presentation, and conversion-focused layout for a local business website.
-
-This project helped me practice front-end development, UI/UX thinking, and real-world web design workflow from planning to deployment-ready presentation.

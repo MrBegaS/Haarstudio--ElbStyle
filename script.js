@@ -1,3 +1,10 @@
+document.querySelectorAll('a[href="#top"]').forEach((link) => {
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+});
+
 const header = document.querySelector('.site-header');
 const nav = document.querySelector('.site-nav');
 const navToggle = document.querySelector('.nav-toggle');
