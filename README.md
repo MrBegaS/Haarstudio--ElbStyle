@@ -10,7 +10,7 @@ Designed and developed to demonstrate frontend skills: visual design, user exper
 
 ## Live Demo
 
-https://mrbegas.github.io/Haarstudio-ElbStyle/
+https://mrbegas.github.io/Haarstudio--ElbStyle/
 
 ## Project Overview
 
